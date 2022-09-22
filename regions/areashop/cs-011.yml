@@ -1,0 +1,16 @@
+general:
+  name: cs-011
+  world: Andolon5
+  type: rent
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1663821339823
+  friends:
+  - c32507b6-c691-46f8-831e-ec47ec181029
+rent:
+  duration: 30 days
+  price: 2000.0
+  rentedUntil: 1665468503366
+  renter: c4b3ed28-d61c-46bc-8f0d-b87f81620974
+  renterName: MyNameIsAshley
+  timesExtended: 0

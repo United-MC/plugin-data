@@ -1,0 +1,14 @@
+general:
+  name: cs-015
+  world: Andolon5
+  type: rent
+  landlord: ef486541-b63f-4e91-adbc-6cf6a8105b61
+  landlordName: Andolon
+  lastActive: 1663860734418
+rent:
+  price: 1750.0
+  duration: 30 days
+  rentedUntil: 1665795253383
+  renter: 8285fabd-b29b-4815-b543-243fde2d445c
+  renterName: The_Donuticus
+  timesExtended: 0

@@ -1,0 +1,99 @@
+{
+  "AndolonTel": {
+    "ID": "dee96a4c-4ecf-4b07-b50f-9dbcefd01e68",
+    "NAME": "AndolonTel",
+    "OWNER": "Andolon",
+    "pricePerText": 2.0,
+    "pricePerPhoneCallMessage": 1.75,
+    "workers": [
+      {
+        "playerId": "4b01915f-6b62-4861-8ae1-b30b559f4c8c",
+        "role": "ENGINEER"
+      },
+      {
+        "playerId": "90244e28-c5d7-4ba0-a97f-9718a276ceb1",
+        "role": "ENGINEER"
+      },
+      null
+    ],
+    "subscribers": [
+      "AndolonGov",
+      "SignalHarbor054"
+    ],
+    "peers": []
+  },
+  "Star": {
+    "ID": "b5e9e8a1-55df-4077-9b1c-c05a1ddfaf47",
+    "NAME": "Star",
+    "OWNER": "008kevin",
+    "pricePerText": 1.0,
+    "pricePerPhoneCallMessage": 0.75,
+    "workers": [],
+    "subscribers": [
+      "008kevin",
+      "Jaynormous"
+    ],
+    "peers": [
+      "925b2fbc-eb01-445b-ae9e-1685f2591041"
+    ]
+  },
+  "Conectivity": {
+    "ID": "7a0db197-aa38-4df4-950b-9ba8fbdf9cc1",
+    "NAME": "Conectivity",
+    "OWNER": "giggly999legs",
+    "pricePerText": 1.0,
+    "pricePerPhoneCallMessage": 0.75,
+    "workers": [],
+    "subscribers": [
+      "giggly999legs",
+      "WaffleSlime4258",
+      "WolfenGamer",
+      "LovelySoftTouch",
+      "UnityMaster",
+      "Syronic"
+    ],
+    "peers": [
+      "925b2fbc-eb01-445b-ae9e-1685f2591041"
+    ]
+  },
+  "Atrium": {
+    "ID": "bfa76a34-f16d-4929-958f-6823b73faf91",
+    "NAME": "Atrium",
+    "OWNER": "byeSprite",
+    "pricePerText": 5.0,
+    "pricePerPhoneCallMessage": 5.0,
+    "workers": [],
+    "subscribers": [
+      "byeSprite"
+    ],
+    "peers": []
+  },
+  "Etisalat": {
+    "ID": "925b2fbc-eb01-445b-ae9e-1685f2591041",
+    "NAME": "Etisalat",
+    "OWNER": "MegaMinerM",
+    "pricePerText": 1.0,
+    "pricePerPhoneCallMessage": 0.75,
+    "workers": [],
+    "subscribers": [
+      "MegaMinerM",
+      "Bezzergeezer"
+    ],
+    "peers": [
+      "b5e9e8a1-55df-4077-9b1c-c05a1ddfaf47",
+      "7a0db197-aa38-4df4-950b-9ba8fbdf9cc1"
+    ]
+  },
+  "WishCom": {
+    "ID": "2a64e92b-d07c-4a61-af66-183168c52955",
+    "NAME": "WishCom",
+    "OWNER": "Th0re_",
+    "pricePerText": 0.25,
+    "pricePerPhoneCallMessage": 1.0,
+    "workers": [],
+    "subscribers": [
+      "Th0re_"
+    ],
+    "peers": []
+  }
+}
