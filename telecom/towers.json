@@ -1,0 +1,742 @@
+[
+  {
+    "CARRIER": "AndolonTel",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1494,
+      "y": 50,
+      "z": 382
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "AndolonTel",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1519,
+      "y": 32,
+      "z": 584
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "AndolonTel",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1723,
+      "y": 59,
+      "z": 495
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "AndolonTel",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1474,
+      "y": 28,
+      "z": 71
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "AndolonTel",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1236,
+      "y": 33,
+      "z": 661
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -13,
+      "y": 85,
+      "z": 384
+    },
+    "TYPE": "GPRS"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1465,
+      "y": 71,
+      "z": 674
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1471,
+      "y": 27,
+      "z": 674
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1468,
+      "y": 27,
+      "z": 674
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1548,
+      "y": 24,
+      "z": 65
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1547,
+      "y": 24,
+      "z": 65
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1581,
+      "y": 67,
+      "z": 633
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1579,
+      "y": 67,
+      "z": 633
+    },
+    "TYPE": "HSPAPLUS"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1580,
+      "y": 70,
+      "z": 634
+    },
+    "TYPE": "LTE"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1580,
+      "y": 70,
+      "z": 632
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1578,
+      "y": 17,
+      "z": 438
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "Star",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1578,
+      "y": 16,
+      "z": 495
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -13,
+      "y": 85,
+      "z": 384
+    },
+    "TYPE": "GPRS"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -130,
+      "y": 99,
+      "z": 2505
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -135,
+      "y": 100,
+      "z": 2495
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -135,
+      "y": 77,
+      "z": 2496
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1536,
+      "y": 23,
+      "z": 611
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1536,
+      "y": 23,
+      "z": 626
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1513,
+      "y": 23,
+      "z": 611
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1526,
+      "y": 23,
+      "z": 619
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1453,
+      "y": 38,
+      "z": 571
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1462,
+      "y": 38,
+      "z": 571
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1470,
+      "y": 24,
+      "z": 592
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1458,
+      "y": 36,
+      "z": 582
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -5,
+      "y": 71,
+      "z": 360
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -50,
+      "y": 86,
+      "z": 431
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1600,
+      "y": 23,
+      "z": 661
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1600,
+      "y": 23,
+      "z": 645
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1573,
+      "y": 23,
+      "z": 661
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1573,
+      "y": 23,
+      "z": 645
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "Etisalat",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1587,
+      "y": 23,
+      "z": 653
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1503,
+      "y": 24,
+      "z": 717
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1545,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1498,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1461,
+      "y": 22,
+      "z": 695
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1532,
+      "y": 22,
+      "z": 732
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1519,
+      "y": 22,
+      "z": 719
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1506,
+      "y": 22,
+      "z": 706
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1493,
+      "y": 22,
+      "z": 693
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1480,
+      "y": 22,
+      "z": 680
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1461,
+      "y": 22,
+      "z": 673
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1515,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1532,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1476,
+      "y": 24,
+      "z": 688
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1475,
+      "y": 24,
+      "z": 688
+    },
+    "TYPE": "LTE"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1474,
+      "y": 24,
+      "z": 688
+    },
+    "TYPE": "HSPAPLUS"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1473,
+      "y": 24,
+      "z": 688
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1472,
+      "y": 24,
+      "z": 688
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -4,
+      "y": 73,
+      "z": 369
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -7,
+      "y": 74,
+      "z": 350
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -6,
+      "y": 75,
+      "z": 402
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": 27,
+      "y": 64,
+      "z": 370
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -28,
+      "y": 75,
+      "z": 321
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -73,
+      "y": 81,
+      "z": 333
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild_nether",
+      "x": -7,
+      "y": 101,
+      "z": -6
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Wild",
+      "x": -211,
+      "y": 77,
+      "z": 204
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1543,
+      "y": 22,
+      "z": 744
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1543,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "HSPA"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1544,
+      "y": 22,
+      "z": 744
+    },
+    "TYPE": "HSPAPLUS"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1544,
+      "y": 22,
+      "z": 745
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1588,
+      "y": 10,
+      "z": 495
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1568,
+      "y": 10,
+      "z": 495
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1499,
+      "y": 24,
+      "z": 369
+    },
+    "TYPE": "LTE"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1489,
+      "y": 24,
+      "z": 368
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1721,
+      "y": 28,
+      "z": 195
+    },
+    "TYPE": "LTE"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1719,
+      "y": 21,
+      "z": 191
+    },
+    "TYPE": "E"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1722,
+      "y": 21,
+      "z": 191
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1578,
+      "y": 17,
+      "z": 548
+    },
+    "TYPE": "FIVEG"
+  },
+  {
+    "CARRIER": "WishCom",
+    "LOCATION": {
+      "worldName": "Andolon5",
+      "x": 1578,
+      "y": 17,
+      "z": 442
+    },
+    "TYPE": "FIVEG"
+  }
+]
