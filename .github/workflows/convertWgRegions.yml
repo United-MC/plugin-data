@@ -13,6 +13,6 @@ jobs:
         with:
           input: "regions/worldguard/regions.yml"
           from: "yaml"
-          to: "json"
+          to: "xml"
       - name: Print result
         run: echo "${{ steps.yaml2json.outputs.output }}"
